@@ -23,7 +23,6 @@ for (let i = 0; i < pokemonList.length; i++) {
   if (pokemon.height > 1.0) {
       output += " - Wow, that's big!";
   }
-  //.test
   // Write the output
   document.write(output + "<br>");
 }
